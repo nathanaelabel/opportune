@@ -69,5 +69,4 @@ This course equipped me with the essential skills to build Laravel applications 
 
 ---
 
-## 📌 Note  
-This project was built for learning purposes and is not actively maintained.  
+📌 **Note:** This project was built for learning purposes and is not actively maintained.  
